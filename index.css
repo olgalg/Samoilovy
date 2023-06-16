@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.prazdniki {
+    border-bottom: 10px solid black;
+    border-top: 10px solid black;
+    font-size: 30px;
+}
+header p {
+    background-color:orange ;
+    border-radius: 5px;
+    padding: 5px;
+    width: 150px;
+    display: inline-block;
+    margin-left: 15px;
+    font-size: 32px;
+}
+header{
+    background-color:#276a91;
+}
+footer{
+background-color:#047887;
+color: white;
+}
